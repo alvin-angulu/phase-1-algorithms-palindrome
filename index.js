@@ -18,6 +18,11 @@ return true
 
 /* 
   Add your pseudocode here
+  1. convert your string to a lowercase
+  2. Have 2 pointers iterating through you string comparing letters in your string
+  3. 1st pointer to be initialized to the 1st letter, whilst 2nd pointer to be initialized to the last letter
+  4. use a while loop for the string iteration
+  5. use an if statement to compare the letters
 */
 
 /*
